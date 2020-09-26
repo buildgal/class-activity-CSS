@@ -1,0 +1,43 @@
+body {
+    background-color: #efeee7;
+    font-family: "Georgia",'Times New Roman', Times, serif;
+    color: rgb(231, 155, 14); /*not working*/
+    margin: 0;
+    padding: 0;
+}
+
+head { 
+    background-color: #333333;
+    }
+
+h1{
+    color: rgb(27, 3, 3);
+    font-size: 28px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h2{
+    font-size: 24px;
+}
+.container {
+    float:left;
+}
+
+#bio-image {
+    width: 200px;
+
+}
+
+#main-bio {
+    width: 70%;
+    margin:10px;
+    padding: 10px;
+
+}
+
+#contact-info {
+    width: 30%;
+    line-height: 1.5;
+    color: #d21034;
+}
